@@ -1,1 +1,1 @@
-print("Hello World")
+# Python script to check the strength of the password.
